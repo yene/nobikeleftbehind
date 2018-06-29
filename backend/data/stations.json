@@ -1,0 +1,506 @@
+[
+  {
+    "id": 137,
+    "lat": 47.370869,
+    "lng": 8.548045,
+    "state": "Active",
+    "name": "Kunsthaus"
+  },
+  {
+    "id": 152,
+    "lat": 47.389823,
+    "lng": 8.49163,
+    "state": "Active",
+    "name": "Luggweg"
+  },
+  {
+    "id": 90,
+    "lat": 47.3917964,
+    "lng": 8.5056978,
+    "state": "Active",
+    "name": "Sportweg"
+  },
+  {
+    "id": 86,
+    "lat": 47.40781197,
+    "lng": 8.506822854,
+    "state": "Active",
+    "name": "ETH Hönggerberg"
+  },
+  {
+    "id": 102,
+    "lat": 47.3897772,
+    "lng": 8.5166922,
+    "state": "Active",
+    "name": "Turbinenplatz"
+  },
+  {
+    "id": 107,
+    "lat": 47.3647902,
+    "lng": 8.5306155,
+    "state": "Active",
+    "name": "Bederbrücke"
+  },
+  {
+    "id": 60,
+    "lat": 47.374392,
+    "lng": 8.540062,
+    "state": "Active",
+    "name": "Demo Station Werdmühleplatz"
+  },
+  {
+    "id": 157,
+    "lat": 47.355189,
+    "lng": 8.535119,
+    "state": "Active",
+    "name": "Strandbad Mythenquai"
+  },
+  {
+    "id": 153,
+    "lat": 47.365272,
+    "lng": 8.52174,
+    "state": "Active",
+    "name": "Manesseplatz"
+  },
+  {
+    "id": 138,
+    "lat": 47.375933,
+    "lng": 8.543447,
+    "state": "Active",
+    "name": "Central"
+  },
+  {
+    "id": 125,
+    "lat": 47.378521,
+    "lng": 8.496727,
+    "state": "Active",
+    "name": "Utogrund"
+  },
+  {
+    "id": 124,
+    "lat": 47.37209,
+    "lng": 8.520482,
+    "state": "Active",
+    "name": "Weststrasse"
+  },
+  {
+    "id": 110,
+    "lat": 47.396401,
+    "lng": 8.4860017,
+    "state": "Active",
+    "name": "Grünau"
+  },
+  {
+    "id": 94,
+    "lat": 47.3758639,
+    "lng": 8.5354006,
+    "state": "Active",
+    "name": "Gessnerallee"
+  },
+  {
+    "id": 80,
+    "lat": 47.3795837,
+    "lng": 8.5156327,
+    "state": "Active",
+    "name": "Bullingerplatz"
+  },
+  {
+    "id": 85,
+    "lat": 47.3716661,
+    "lng": 8.5235479,
+    "state": "Active",
+    "name": "Bahnhof Wiedikon"
+  },
+  {
+    "id": 265,
+    "lat": 47.369256,
+    "lng": 8.543437,
+    "state": "Active",
+    "name": "Helmhaus"
+  },
+  {
+    "id": 264,
+    "lat": 47.353198,
+    "lng": 8.553189,
+    "state": "Active",
+    "name": "Lake Side"
+  },
+  {
+    "id": 134,
+    "lat": 47.358557,
+    "lng": 8.557088,
+    "state": "Active",
+    "name": "Mühlebachstrasse"
+  },
+  {
+    "id": 133,
+    "lat": 47.36162,
+    "lng": 8.554501,
+    "state": "Active",
+    "name": "Villa Bleuler"
+  },
+  {
+    "id": 84,
+    "lat": 47.3789825,
+    "lng": 8.5412505,
+    "state": "Active",
+    "name": "Landesmuseum"
+  },
+  {
+    "id": 164,
+    "lat": 47.387531,
+    "lng": 8.527138,
+    "state": "Active",
+    "name": "Markthalle"
+  },
+  {
+    "id": 160,
+    "lat": 47.386072,
+    "lng": 8.524629,
+    "state": "Active",
+    "name": "Josefwiese"
+  },
+  {
+    "id": 159,
+    "lat": 47.371868,
+    "lng": 8.515558,
+    "state": "Active",
+    "name": "Zwinglihaus"
+  },
+  {
+    "id": 158,
+    "lat": 47.373675,
+    "lng": 8.545505,
+    "state": "Active",
+    "name": "Predigerplatz"
+  },
+  {
+    "id": 156,
+    "lat": 47.386596,
+    "lng": 8.490837,
+    "state": "Active",
+    "name": "Luggwegstrasse VBZ"
+  },
+  {
+    "id": 149,
+    "lat": 47.392336,
+    "lng": 8.491061,
+    "state": "Active",
+    "name": "Vulkanplatz"
+  },
+  {
+    "id": 143,
+    "lat": 47.3899,
+    "lng": 8.523722,
+    "state": "Active",
+    "name": "Escher-Wyss-Platz"
+  },
+  {
+    "id": 142,
+    "lat": 47.374065,
+    "lng": 8.528584,
+    "state": "Active",
+    "name": "Stauffacher"
+  },
+  {
+    "id": 141,
+    "lat": 47.366752,
+    "lng": 8.544935,
+    "state": "Active",
+    "name": "Bellevue"
+  },
+  {
+    "id": 139,
+    "lat": 47.408827,
+    "lng": 8.549356,
+    "state": "Active",
+    "name": "ewz Tramstrasse"
+  },
+  {
+    "id": 112,
+    "lat": 47.388151,
+    "lng": 8.520449,
+    "state": "Active",
+    "name": "Steinfelsareal"
+  },
+  {
+    "id": 96,
+    "lat": 47.3790787,
+    "lng": 8.5308087,
+    "state": "Active",
+    "name": "Gustav-Gull-Platz"
+  },
+  {
+    "id": 93,
+    "lat": 47.384918,
+    "lng": 8.531935,
+    "state": "Active",
+    "name": "Limmatplatz"
+  },
+  {
+    "id": 91,
+    "lat": 47.3917837,
+    "lng": 8.5181701,
+    "state": "Active",
+    "name": "Puls 5"
+  },
+  {
+    "id": 131,
+    "lat": 47.365119,
+    "lng": 8.554114,
+    "state": "Active",
+    "name": "Kreuzplatz"
+  },
+  {
+    "id": 126,
+    "lat": 47.381356,
+    "lng": 8.510418,
+    "state": "Active",
+    "name": "Hardau"
+  },
+  {
+    "id": 106,
+    "lat": 47.382798,
+    "lng": 8.53545,
+    "state": "Active",
+    "name": "Museum für Gestaltung"
+  },
+  {
+    "id": 105,
+    "lat": 47.3775022,
+    "lng": 8.5360685,
+    "state": "Active",
+    "name": "Sihlpost"
+  },
+  {
+    "id": 151,
+    "lat": 47.387685,
+    "lng": 8.486284,
+    "state": "Active",
+    "name": "Lindenplatz"
+  },
+  {
+    "id": 150,
+    "lat": 47.359872,
+    "lng": 8.52306,
+    "state": "Active",
+    "name": "Utoplatz"
+  },
+  {
+    "id": 155,
+    "lat": 47.374711,
+    "lng": 8.543042,
+    "state": "Active",
+    "name": "Rudolf-Brun-Brücke"
+  },
+  {
+    "id": 87,
+    "lat": 47.371083,
+    "lng": 8.536101,
+    "state": "Active",
+    "name": "Pelikanplatz"
+  },
+  {
+    "id": 88,
+    "lat": 47.3651936,
+    "lng": 8.5257822,
+    "state": "Active",
+    "name": "Hürlimannplatz"
+  },
+  {
+    "id": 95,
+    "lat": 47.377148,
+    "lng": 8.523818,
+    "state": "Active",
+    "name": "Bäckeranlage"
+  },
+  {
+    "id": 129,
+    "lat": 47.379952,
+    "lng": 8.542726,
+    "state": "Active",
+    "name": "Stampfenbachplatz"
+  },
+  {
+    "id": 99,
+    "lat": 47.374951,
+    "lng": 8.520532,
+    "state": "Active",
+    "name": "Kalkbreite"
+  },
+  {
+    "id": 83,
+    "lat": 47.358663827,
+    "lng": 8.520370505,
+    "state": "Active",
+    "name": "Comerge"
+  },
+  {
+    "id": 111,
+    "lat": 47.376756,
+    "lng": 8.548519,
+    "state": "Active",
+    "name": "ETH/Universitätsspital"
+  },
+  {
+    "id": 154,
+    "lat": 47.372329,
+    "lng": 8.52714,
+    "state": "Active",
+    "name": "Werd"
+  },
+  {
+    "id": 81,
+    "lat": 47.3899342,
+    "lng": 8.5104051,
+    "state": "Active",
+    "name": "Herdern"
+  },
+  {
+    "id": 128,
+    "lat": 47.363148,
+    "lng": 8.518143,
+    "state": "Active",
+    "name": "Binz"
+  },
+  {
+    "id": 97,
+    "lat": 47.3771535,
+    "lng": 8.5104883,
+    "state": "Active",
+    "name": "Zurlindenstrasse"
+  },
+  {
+    "id": 127,
+    "lat": 47.361567,
+    "lng": 8.525525,
+    "state": "Active",
+    "name": "Klopstockwiese"
+  },
+  {
+    "id": 130,
+    "lat": 47.391366,
+    "lng": 8.488108,
+    "state": "Active",
+    "name": "Bahnhof Altstetten"
+  },
+  {
+    "id": 132,
+    "lat": 47.35594,
+    "lng": 8.549852,
+    "state": "Active",
+    "name": "Blatterwiese"
+  },
+  {
+    "id": 98,
+    "lat": 47.3731102,
+    "lng": 8.5333139,
+    "state": "Active",
+    "name": "Sihlporte"
+  },
+  {
+    "id": 82,
+    "lat": 47.359675,
+    "lng": 8.535718,
+    "state": "Active",
+    "name": "Hafen Enge"
+  },
+  {
+    "id": 61,
+    "lat": 47.375991201,
+    "lng": 8.541239126,
+    "state": "Active",
+    "name": "Demo Station Beatenplatz"
+  },
+  {
+    "id": 135,
+    "lat": 47.361266,
+    "lng": 8.547639,
+    "state": "Active",
+    "name": "Seebad Utoquai"
+  },
+  {
+    "id": 104,
+    "lat": 47.3739567,
+    "lng": 8.5386541,
+    "state": "Active",
+    "name": "Rennweg"
+  },
+  {
+    "id": 266,
+    "lat": 47.375819,
+    "lng": 8.516676,
+    "state": "Inactive",
+    "name": "Lochergut"
+  },
+  {
+    "id": 136,
+    "lat": 47.3675571,
+    "lng": 8.5440615,
+    "state": "Active (empty)",
+    "name": "Bellevue Kanzel"
+  },
+  {
+    "id": 101,
+    "lat": 47.3625938,
+    "lng": 8.5348427,
+    "state": "Active (empty)",
+    "name": "Rentenanstalt"
+  },
+  {
+    "id": 100,
+    "lat": 47.368064,
+    "lng": 8.539046,
+    "state": "Active (empty)",
+    "name": "Zürcher Kantonalbank"
+  },
+  {
+    "id": 92,
+    "lat": 47.3820827,
+    "lng": 8.5286468,
+    "state": "Active (empty)",
+    "name": "Röntgenstrasse"
+  },
+  {
+    "id": 89,
+    "lat": 47.3713591,
+    "lng": 8.5313344,
+    "state": "Active (empty)",
+    "name": "Stauffacherbrücke"
+  },
+  {
+    "id": 263,
+    "lat": 47.359978,
+    "lng": 8.552717,
+    "state": "Active (empty)",
+    "name": "Feldeggstrasse"
+  },
+  {
+    "id": 109,
+    "lat": 47.37247535,
+    "lng": 8.53001018,
+    "state": "Active (empty)",
+    "name": "Tamedia"
+  },
+  {
+    "id": 62,
+    "lat": 47.389862,
+    "lng": 8.514605,
+    "state": "Active (empty)",
+    "name": "Westpark"
+  },
+  {
+    "id": 108,
+    "lat": 47.386741,
+    "lng": 8.518982,
+    "state": "Active (empty)",
+    "name": "Bahnhof Hardbrücke"
+  },
+  {
+    "id": 140,
+    "lat": 47.366904,
+    "lng": 8.533736,
+    "state": "Active (empty)",
+    "name": "Bleicherweg"
+  }
+]
