@@ -43,7 +43,7 @@ function downloadStation() {
         // random age between 3 days and now
         var a = Math.floor((Math.random() * 3*24*60*60) + 1);
         // random serial but not mine. 1305167548645700
-        var s = Math.floor((Math.random() * 1305167548645700) + 1);
+        var s = Math.floor((Math.random() * 1305167548645700));
         var hex = Number(s).toString(16).toUpperCase().padStart(16, '0');
 
         bikes.push({id: v.id, station: d.id, name: v.name, type: v.type.name, lat: d.latitude, lng: d.longitude, battery: b, age: a, serial: hex});
